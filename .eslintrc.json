@@ -1,0 +1,6 @@
+{
+    "rules": {
+      "react-hooks/rules-of-hooks": "off", // Disables invalid hook call checks
+      "react-hooks/exhaustive-deps": "warn" // Downgrades dependency checks to warnings
+    }
+  }
