@@ -69,7 +69,7 @@ const CategoryModal = ({
             <Label htmlFor="categoryName">Category Name</Label>
             <Input
               id="categoryName"
-              placeholder="Enter category name"
+              placeholder="Enter category name (e.g Laptop)"
               onChange={(e) => setName(e.target.value)}
             />
           </div>
